@@ -1,6 +1,5 @@
 package org.example.testmail;
 
-import com.bjit.mailservice.config.MailConfig;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
